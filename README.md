@@ -1,1 +1,5 @@
-# ENDG310-Project-3-F2023
+# ENDG 310
+## Project 3 - Chatbots and Newsfeeds
+
+Group Members:
+
